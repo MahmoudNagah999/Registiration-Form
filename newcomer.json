@@ -1,0 +1,72 @@
+{
+    "ali": [
+        {
+            "username": "ali",
+            "email": "ali@gmail.com",
+            "phone": "01142036896",
+            "password": "123",
+            "password-confirm": "123",
+            "cv_url": "http:\/\/www.ali.com\/mycv"
+        }
+    ],
+    "ahmed": [
+        {
+            "username": "ahmed",
+            "email": "ahmed@gmail.com",
+            "phone": "01142036896",
+            "password": "123",
+            "password-confirm": "123",
+            "cv_url": "http:\/\/www.ahmed.com\/mycv"
+        }
+    ],
+    "ahmed ali": [
+        {
+            "username": "ahmed ali",
+            "email": "ahmed@gmail.com",
+            "phone": "01142036896",
+            "password": "444",
+            "password-confirm": "444",
+            "cv_url": "http:\/\/www.ahmed.com\/mycv"
+        }
+    ],
+    "nader": [
+        {
+            "username": "nader",
+            "email": "nader@gmail.com",
+            "phone": "01142036896",
+            "password": "555",
+            "password-confirm": "555",
+            "cv_url": "http:\/\/www.nader.com\/mycv"
+        }
+    ],
+    "nader mohamed": [
+        {
+            "username": "nader mohamed",
+            "email": "nader@gmail.com",
+            "phone": "01142036896",
+            "password": "333",
+            "password-confirm": "333",
+            "cv_url": "http:\/\/www.nader.com\/mycv"
+        }
+    ],
+    "mahmoud": [
+        {
+            "username": "mahmoud",
+            "email": "mahmoudnagah999@gmail.com",
+            "phone": "01142036896",
+            "password": "123",
+            "password-confirm": "123",
+            "cv_url": "http:\/\/www.example.com\/my-cv"
+        }
+    ],
+    "admin": [
+        {
+            "username": "admin",
+            "email": "admin@gmail.com",
+            "phone": "01142036896",
+            "password": "123",
+            "password-confirm": "123",
+            "cv_url": "http:\/\/www.example.com\/my-cv"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+/* start form*/
+contact-form i{
+    color: #fff;
+}
+form{
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+form input,
+form textarea{
+    margin-bottom: 10px;
+}
+
+form textarea{
+    height: 180px;
+}
+form i{ 
+    color: #999;
+}
+
+div.panel{
+    /* border: 1px solid #ddd; */
+    /* background: #f0f0f0; */
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+    color:green;
+}
+
+div.pane2{
+    border: 1px solid #ddd;
+    background: #f0f0f0;
+}
